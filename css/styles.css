@@ -80,7 +80,7 @@ a {
 	text-transform: uppercase;
 }
 
-.btn {
+.button {
 	background-color: var(--accent);
 	color: var(--white);
 	font-style: 400;
@@ -109,7 +109,7 @@ section h2 {
 }
 
 /* Стиль преимуществ */
-.advantages h3 {
+.gooals h3 {
 	font-style: normal;
 	font-weight: 700;
 	font-size: 14px;
